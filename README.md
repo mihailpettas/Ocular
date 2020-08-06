@@ -16,10 +16,10 @@ During the years of the development there were periods i was thinking it may be 
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/3.png" width="300">
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/4.png" width="300">
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/5.png" width="300">
-  
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/video.gif">
+
 </p>
 
-<img src="https://github.com/Mistral-Designs/Ocular/blob/master/video.gif">
 
 
 
