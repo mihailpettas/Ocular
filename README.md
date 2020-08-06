@@ -16,10 +16,7 @@ During the years of the development there were periods i was thinking it may be 
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/3.png" width="300">
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/4.png" width="300">
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/5.png" width="300">
-  
-  <video width="300" controls>
-    <source src="https://github.com/Mistral-Designs/Ocular/blob/master/video.mp4" type="video/mp4">
-  </video>
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/video.gif" width="300">
   
 </p>
 
