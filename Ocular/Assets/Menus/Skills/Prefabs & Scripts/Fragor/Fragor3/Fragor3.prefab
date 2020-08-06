@@ -1,0 +1,109 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1179261429344688}
+  m_IsPrefabParent: 1
+--- !u!1 &1179261429344688
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4748589282314844}
+  - component: {fileID: 114532642565479116}
+  - component: {fileID: 114491092477115670}
+  - component: {fileID: 114672832896781370}
+  m_Layer: 0
+  m_Name: Fragor3
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4748589282314844
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1179261429344688}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114491092477115670
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1179261429344688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81f8c23d8c2db2848bb2bc1fff83ddd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  skillLevel: 2
+  hitDistance: 2
+  explosions:
+  - {fileID: 1608704660743408, guid: df8828a31b5d6f8409c0b8a931094860, type: 2}
+  - {fileID: 112618, guid: 327d1fc066a7d5341a57a54d13fcbb74, type: 2}
+  - {fileID: 172614, guid: 6c6408a9cbaf1e848b36fdd5c43a90d4, type: 2}
+  - {fileID: 146748, guid: cd40cf2d41cd7534f9d60b553896487d, type: 2}
+  - {fileID: 112512, guid: e47480ac8b8d5e34bb15f68129d9ce55, type: 2}
+  - {fileID: 172038, guid: 8b79b060a9d9fd94197dc769cd9e0b89, type: 2}
+  - {fileID: 193142, guid: d8efc56879271b44bbebf39184cd4e6f, type: 2}
+  - {fileID: 132222, guid: 324da0ec77db9f54089387f2b7754572, type: 2}
+  - {fileID: 196814, guid: ebfdbafb1589db54e9e6db9197ecb08e, type: 2}
+  - {fileID: 121360, guid: c371baf6ed6851546b06b9847dee07fd, type: 2}
+  - {fileID: 198412, guid: 60bc1641382629b47a88a425a7042986, type: 2}
+  - {fileID: 141060, guid: 45bf10b19c7f8d445be60a12d462c217, type: 2}
+--- !u!114 &114532642565479116
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1179261429344688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa584fbee541324448dd18d8409c7a41, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ownerId: 0
+  group: 0
+  OwnerShipWasTransfered: 0
+  prefixBackup: -1
+  synchronization: 0
+  onSerializeTransformOption: 3
+  onSerializeRigidBodyOption: 2
+  ownershipTransfer: 0
+  ObservedComponents:
+  - {fileID: 0}
+  ObservedComponentsFoldoutOpen: 1
+  viewIdField: 0
+  instantiationId: -1
+  currentMasterID: -1
+  isRuntimeInstantiated: 0
+--- !u!114 &114672832896781370
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1179261429344688}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a000e4ec0a55ef4ca04d8918c9a0b3c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  ps: []
+  failed: 0

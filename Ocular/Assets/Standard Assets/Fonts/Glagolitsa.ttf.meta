@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 14ff3b30ae09df649be7e6542a320e2b
+timeCreated: 1485198479
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Glagolitsa
+  fontNames:
+  - Glagolitsa
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: WaterWaveDistortion
+  m_Shader: {fileID: 4800000, guid: fdb7e96596117a842b8c17421a6b9b02, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 5
+  m_CustomRenderQueue: 5217
+  stringTagMap: {}
+  m_SavedProperties:
+    serializedVersion: 2
+    m_TexEnvs:
+    - first:
+        name: _BumpMap
+      second:
+        m_Texture: {fileID: 2800000, guid: 2180d191ae2920f41b22d3e9dbee510d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _CutOut
+      second:
+        m_Texture: {fileID: 2800000, guid: 5a800369df50b5641b6268770c7ef4a7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _HeightMap
+      second:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - first:
+        name: _MainTex
+      second:
+        m_Texture: {fileID: 2800000, guid: 5a800369df50b5641b6268770c7ef4a7, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - first:
+        name: _BumpAmt
+      second: 100
+    - first:
+        name: _ColorStrength
+      second: 0.13
+    - first:
+        name: _Cutoff
+      second: 1
+    - first:
+        name: _FPOW
+      second: 5
+    - first:
+        name: _Height
+      second: 0
+    - first:
+        name: _InvFade
+      second: 3
+    - first:
+        name: _OffsetXHeightMap
+      second: 0
+    - first:
+        name: _OffsetYHeightMap
+      second: 0
+    - first:
+        name: _R0
+      second: 0.1
+    - first:
+        name: _Shininess
+      second: 0.58155197
+    m_Colors:
+    - first:
+        name: _Color
+      second: {r: 0.8602941, g: 0.8728194, b: 1, a: 1}
+    - first:
+        name: _ReflectColor
+      second: {r: 1, g: 1, b: 1, a: 0.5019608}
+    - first:
+        name: _RimColor
+      second: {r: 1, g: 1, b: 1, a: 0.5019608}
+    - first:
+        name: _SpecColor
+      second: {r: 0.05233564, g: 0.05345424, b: 0.058823526, a: 1}
+    - first:
+        name: _TintColor
+      second: {r: 0.8161765, g: 0.86308306, b: 1, a: 1}

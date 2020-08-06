@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0c6f03498ab98fb43b6cab1e1b788e76
+timeCreated: 1485198349
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Iokharic
+  fontNames:
+  - Iokharic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

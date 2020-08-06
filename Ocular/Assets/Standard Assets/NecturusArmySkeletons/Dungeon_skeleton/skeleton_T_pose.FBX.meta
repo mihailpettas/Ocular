@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: f08446d658134e543847b719b5b430a0
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: left_up_hand
+    100002: left_thigh
+    100004: left_calf
+    100006: //RootNode
+    100008: right_fore_arm
+    100010: right_up_arm
+    100012: right_shoulder
+    100014: right_foot
+    100016: left_shoulder
+    100018: right_hand
+    100020: jaw
+    100022: head
+    100024: left_foot
+    100026: right_thigh
+    100028: neck
+    100030: chest
+    100032: left_clavicle
+    100034: right_calf
+    100036: left_hand
+    100038: right_clavicle
+    100040: left_fore_hand
+    400000: left_up_hand
+    400002: left_thigh
+    400004: left_calf
+    400006: //RootNode
+    400008: right_fore_arm
+    400010: right_up_arm
+    400012: right_shoulder
+    400014: right_foot
+    400016: left_shoulder
+    400018: right_hand
+    400020: jaw
+    400022: head
+    400024: left_foot
+    400026: right_thigh
+    400028: neck
+    400030: chest
+    400032: left_clavicle
+    400034: right_calf
+    400036: left_hand
+    400038: right_clavicle
+    400040: left_fore_hand
+    2300000: left_up_hand
+    2300002: left_thigh
+    2300004: left_calf
+    2300006: //RootNode
+    2300008: right_fore_arm
+    2300010: right_up_arm
+    2300012: right_shoulder
+    2300014: right_foot
+    2300016: left_shoulder
+    2300018: right_hand
+    2300020: jaw
+    2300022: head
+    2300024: left_foot
+    2300026: right_thigh
+    2300028: neck
+    2300030: chest
+    2300032: left_clavicle
+    2300034: right_calf
+    2300036: left_hand
+    2300038: right_clavicle
+    2300040: left_fore_hand
+    3300000: left_up_hand
+    3300002: left_thigh
+    3300004: left_calf
+    3300006: //RootNode
+    3300008: right_fore_arm
+    3300010: right_up_arm
+    3300012: right_shoulder
+    3300014: right_foot
+    3300016: left_shoulder
+    3300018: right_hand
+    3300020: jaw
+    3300022: head
+    3300024: left_foot
+    3300026: right_thigh
+    3300028: neck
+    3300030: chest
+    3300032: left_clavicle
+    3300034: right_calf
+    3300036: left_hand
+    3300038: right_clavicle
+    3300040: left_fore_hand
+    4300000: pelvis
+    4300002: chest
+    4300004: neck
+    4300006: head
+    4300008: jaw
+    4300010: left_clavicle
+    4300012: right_clavicle
+    4300014: right_up_arm
+    4300016: right_fore_arm
+    4300018: right_hand
+    4300020: left_shoulder
+    4300022: right_shoulder
+    4300024: left_up_hand
+    4300026: left_fore_hand
+    4300028: left_hand
+    4300030: left_thigh
+    4300032: left_calf
+    4300034: left_foot
+    4300036: right_thigh
+    4300038: right_calf
+    4300040: right_foot
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 3
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
