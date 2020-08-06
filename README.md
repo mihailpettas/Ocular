@@ -18,7 +18,7 @@ During the years of the development there were periods i was thinking it may be 
   <img src="https://github.com/Mistral-Designs/Ocular/blob/master/5.png" width="300">
   
   <video width="300" controls>
-    <source src="https://github.com/Mistral-Designs/Ocular/blob/master/1.png" type="video/mp4">
+    <source src="https://github.com/Mistral-Designs/Ocular/blob/master/video.mp4" type="video/mp4">
   </video>
   
 </p>
