@@ -9,10 +9,14 @@ One night i was sitting with an old teacher of mine talking about AR, that aroun
 
 During the years of the development there were periods i was thinking it may be a stupid concept, but thinking how much work i had put into it and how 'innovative' it was i couldn't let it go. The project crush syndrome. Until January of 2018 came. I had reached the state of beta, i prepared the play store page and i was uploading the app. And then i canceled, and deleted everything. Just like that. And suddenly my day was empty. And fell into depression. Since then try to first sell something before i make it.
 
-<img src="https://github.com/Mistral-Designs/Ocular/blob/master/1.png" width="300">
-<img src="https://github.com/Mistral-Designs/Ocular/blob/master/2.png" width="300">
-<img src="https://github.com/Mistral-Designs/Ocular/blob/master/3.png" width="300">
-<img src="https://github.com/Mistral-Designs/Ocular/blob/master/4.png" width="300">
-<img src="https://github.com/Mistral-Designs/Ocular/blob/master/5.png" width="300">
+<p float="left">
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/1.png" width="300">
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/2.png" width="300">
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/3.png" width="300">
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/4.png" width="300">
+  <img src="https://github.com/Mistral-Designs/Ocular/blob/master/5.png" width="300">
+</p>
+
+
 
 
